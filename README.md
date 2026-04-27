@@ -74,7 +74,7 @@ An end-to-end **Machine Learning + Web Application** that detects fraudulent cre
 
 ## 📁 Project Structure
 
-
+```
 credit-card-fraud-detection/
 │
 ├── app.py
@@ -82,26 +82,24 @@ credit-card-fraud-detection/
 ├── requirements.txt
 │
 ├── models/
-│ ├── model.pkl
-│ ├── encoder.pkl
-│ ├── features.pkl
-│ ├── options.pkl
-│ └── state_city_map.pkl
+│   ├── model.pkl
+│   ├── encoder.pkl
+│   ├── features.pkl
+│   ├── options.pkl
+│   └── state_city_map.pkl
 │
 ├── src/
-│ ├── preprocess.py
-│ ├── train.py
-│ └── evaluate.py
+│   ├── preprocess.py
+│   ├── train.py
+│   └── evaluate.py
 │
 └── assets/
-├── dashboard.png
-├── detection.png
-├── risk.png
-├── history.png
-└── about.png
-
-
----
+    ├── dashboard.png
+    ├── detection.png
+    ├── risk.png
+    ├── history.png
+    └── about.png
+```
 
 ## ⚙️ Installation
 

@@ -12,7 +12,7 @@ An end-to-end **Machine Learning + Web Application** that detects fraudulent cre
 
 ## 🚀 Live Demo
 
-👉 https://codsoftcreditcardfrauddetection-9jhdww74jjaf8trmqhdcwk.streamlit.app/
+👉  [*(Click here to try the app)*](https://codsoftcreditcardfrauddetection-9jhdww74jjaf8trmqhdcwk.streamlit.app/)
 
 ---
 

@@ -16,19 +16,22 @@ An end-to-end **Machine Learning + Web Application** that detects fraudulent cre
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Application Preview
 
 ### 📊 Dashboard
 ![Dashboard](assets/dashboard.png)
 
-### 🔍 Fraud Detection Interface
+### 🔍 Fraud Detection Engine
 ![Detection](assets/detection.png)
 
-### 📈 Risk Analysis Output
+### 📈 Risk Analysis
 ![Risk](assets/risk.png)
 
 ### 📜 Transaction History
 ![History](assets/history.png)
+
+### ℹ️ About Section
+![About](assets/about.png)
 
 ---
 
@@ -40,7 +43,7 @@ An end-to-end **Machine Learning + Web Application** that detects fraudulent cre
 - 🌍 Location-aware inputs (State → City)  
 - 🔎 Searchable inputs (Merchant, Job)  
 - 📜 Transaction history tracking  
-- 📊 Dashboard with insights  
+- 📊 Interactive dashboard with insights  
 
 ---
 
@@ -54,7 +57,7 @@ An end-to-end **Machine Learning + Web Application** that detects fraudulent cre
 ### Techniques Applied
 - SMOTE (handling class imbalance)  
 - Feature engineering  
-- Threshold tuning  
+- Threshold tuning (optimized for best F1 score)  
 - Model evaluation and comparison  
 
 ---
@@ -94,7 +97,8 @@ credit-card-fraud-detection/
 ├── dashboard.png
 ├── detection.png
 ├── risk.png
-└── history.png
+├── history.png
+└── about.png
 
 
 ---
